@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--  @author 13
       @qq交流群 796794009
       @email 2449207463@qq.com
@@ -14,8 +14,8 @@
     <version>4.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>my-blog</name>
-    <description>your personal blog</description>
+    <name>My-Blog-13</name>
+    <description>My Personal Blog, joel</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
